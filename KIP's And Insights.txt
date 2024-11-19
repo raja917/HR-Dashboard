@@ -1,0 +1,29 @@
+KPI's 
+
+# of men
+# of women
+% of hires men
+% of hires women
+# of leavers
+Average performance rating: men
+Average Performance rating: women
+% of hires men
+% of hires women
+% turnover	
+
+
+Hiring Bias: The percentage of male hires (59.0%) is significantly higher than female hires (41.0%). There may be a bias in hiring practices favoring male candidates, or the recruitment process might not be reaching or attracting enough female candidates.
+
+Promotion Barriers: The promotion rate for men (11.19%) is higher than for women (8.78%). Women might face obstacles in getting promoted, such as lack of mentorship or career development opportunities.
+
+High Female Turnover: The turnover rate for female employees (10.24%) is higher than for male employees (8.81%). Issues such as work-life balance, flexibility, and lack of support could be contributing factors.
+
+Department Imbalance: Sales & Marketing, Internal Services, and Strategic, have a significantly higher number of male employees compared to female employees.
+
+Leadership Diversity: There’s a lack of targeted efforts to promote women into leadership roles. The overall gender distribution shows more males (295) than females (205).
+
+Exit and Retention Issues: Workforce exit shows 47 departures, with a significant turnover rate of 9.40%. High turnover rates indicate dissatisfaction, potentially from lack of advancement opportunities or better offers elsewhere.
+
+To improve gender balance and diversity, we need to tackle several key areas. Addressing hiring bias is crucial, as male hires currently outpace female hires. Providing robust support systems, including mentorship and career development opportunities for women, is crucial. Improving our workplace culture to be more inclusive will help retain female employees. Additionally, revising performance evaluation criteria to be more objective and transparent will help women advance. Lastly, targeted efforts to promote women into leadership roles are essential. By addressing these areas, we can create a more supportive and equitable environment that allows everyone to thrive.
+
+
